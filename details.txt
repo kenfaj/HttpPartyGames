@@ -1,0 +1,8 @@
+Game: Liars bar
+https://www.liarsbar.net/g/liars-deck
+
+Players: 2-4
+
+Setup:
+The deck consists of 20 cards: 6 Aces, 6 Kings, 6 Queens, and 2 Jokers
+Jokers can substitute for any card
